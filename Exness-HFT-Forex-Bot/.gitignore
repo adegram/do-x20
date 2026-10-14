@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+reports/*
+!reports/README.md
+data/raw/*
+data/processed/*
+!data/README.md
+*.ex4
+*.log
+*.set
+*.hst
+*.fxt
