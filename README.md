@@ -1,5 +1,5 @@
 # do-x20
-
+  
 A development workspace for the **Exness HFT Forex Bot** and its supporting research outputs. The project focuses on building, testing, and validating a safety-first MetaTrader 4 (MT4) Expert Advisor alongside offline Python tools for strategy research and risk checks.
 
 > **Current status: Development only.** The bot has been compiled and locally unit-tested, but it has not yet been validated with historical market data, the MT4 Strategy Tester, a demo account, or live broker execution. It is not approved for live trading. See the [implementation report](outputs/IMPLEMENTATION_REPORT.md).
