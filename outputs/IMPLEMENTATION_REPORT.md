@@ -7,7 +7,6 @@ Date: 2026-10-13
 **DEVELOPMENT** — compiled and locally unit-tested, but not validated with historical market data, MT4 Strategy Tester, a demo account, or broker execution. It is not approved for live trading and no order was placed during this work.
 
 ## Delivered
-
 - MQL4 EA (`ExnessHFTBot.mq4`) with a dry-run default, deterministic tick processing, momentum/mean-reversion candidates, spread and volatility filters, risk-based lot sizing, duplicate-position protection, circuit-breaker checks, structured terminal logs, server-side SL/TP, and a multi-factor live activation gate.
 - MQL4 modules for configuration, market data, strategies, risk, sizing, order management, execution, counters, diagnostics, and utilities.
 - Python offline modules for risk/circuit breakers, sizing, lifecycle state, accounting, strategies, tick validation, and an adverse-slippage cost model.
@@ -15,7 +14,6 @@ Date: 2026-10-13
 - Deployment, broker preflight, risk, research, security, troubleshooting, and completion-checklist documentation, plus compile/test/config-validation tools.
 
 ## Verification evidence
-
 - Python runtime: 3.12.14.
 - Unit tests: `Ran 10 tests ... OK`.
 - MQL4 compiler: installed Exness MetaEditor.
