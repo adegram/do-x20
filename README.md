@@ -16,7 +16,7 @@ This is the **project source directory** inside your Downloads folder. Open this
 
 ### Important: source folder vs. MT4 installation folder
 
-The path above is not necessarily the folder MT4 loads Expert Advisors from. To install the bot in your MT4 terminal:
+The path above is not necessarily the folder MT4 loads Expert Advisors from; To install the bot in your MT4 terminal:
 
 1. Open the relevant **Exness MetaTrader 4** terminal.
 2. Select **File → Open Data Folder**.
