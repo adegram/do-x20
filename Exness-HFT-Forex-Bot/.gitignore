@@ -11,7 +11,5 @@ data/processed/*
 *.ex4
 *.log
 *.set
-
 *.hst
-
 *.fxt
